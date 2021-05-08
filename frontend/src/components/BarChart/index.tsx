@@ -1,4 +1,4 @@
-import Chart from 'react-apexcharts';
+import Chart from "react-apexcharts";
 
 const BarChart = () => {
   const options = {
@@ -11,7 +11,7 @@ const BarChart = () => {
   
   const mockData = {
     labels: {
-        categories: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
+        categories: ["Anakin", "Barry Allen", "Kal-El", "Logan", "Padmé"]
     },
     series: [
         {
