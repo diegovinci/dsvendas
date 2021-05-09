@@ -9,24 +9,25 @@ const Dashboard = () => {
     <>
       <NavBar />
       <div className="container">
-        <h1 className="text-primary py-3">Dashboard de vendas</h1>
+        <h3 className="text-primary py-3">Dashboard de vendas</h3>
 
         <div className="row px-3">
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Taxa de sucesso (%)</h5>
+            <h5 className="text-secondary">Taxa de sucesso</h5>
             <BarChart />
           </div>
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Todas as vendas</h5>
+            <h5 className="text-secondary">Quantidade de vendas por vendedor</h5>
             <DonutChart />
           </div>
         </div>
 
-        <div className="py-3">
-          <h2 className="text-primary">Todas as vendas</h2>
+        <div className="row px-12">
+          <div className="py-3">
+            <h5 className="text-secondary">Tabela de vendas</h5>
+          </div>
+          <DataTable />
         </div>
-
-        <DataTable />
       </div>
       <Footer />
     </>
