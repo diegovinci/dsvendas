@@ -1,12 +1,18 @@
 # DSVendas
 
+![Languages](https://img.shields.io/github/languages/count/diegovinci/dsvendas?color=%23FF851D)
+![Top language](https://img.shields.io/github/languages/top/diegovinci/dsvendas?color=%23FF851D)
+![Made By](https://img.shields.io/badge/made%20by-diegovinci-%23FF851D)
+![License](https://img.shields.io/badge/license-MIT-%23FF851D)
+
 DSVendas is a web application built during the 3rd edition of DevSuperior Week, an event organized by DevSuperior. The application consists of a web API that provides fictitious sales data to a frontend that displays simple reports based on this data.
 
 ![logo](https://github.com/diegovinci/project-sds3/blob/main/frontend/src/assets/img/project-cover.png)
 
-## Setup
+## Getting started
 
-### Dependencies
+### Prerequisites
+  - [GIT](https://git-scm.com)
   - [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
   - [Spring Boot](https://spring.io/projects/spring-boot)
   - [Maven](https://maven.apache.org/download.cgi)
@@ -57,3 +63,5 @@ $ yarn
 # Start the application
 $ yarn start
 ```
+## License
+This project is under MIT license. See the [LICENSE](https://github.com/diegovinci/project-sds3/blob/main/LICENSE) file for more details.
