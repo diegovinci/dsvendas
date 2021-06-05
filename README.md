@@ -7,7 +7,7 @@
 
 DSVendas is a web application built during the 3rd edition of the event Semana DevSuperior. The project consists of a web API that provides fictitious sales data to a frontend application that displays simple reports to the end-user based on this data.
 
-![Cover](https://github.com/diegovinci/project-sds3/blob/main/frontend/src/assets/img/project-cover.png)
+![Cover](https://github.com/diegovinci/project-sds3/blob/main/.assets/project-cover.svg)
 
 ## Getting started
 
