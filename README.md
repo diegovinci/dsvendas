@@ -25,7 +25,7 @@ Follow the steps below to set up and run the project:
 
 #### 1. Clone this repository
 ```bash
-$ git clone https://github.com/diegovinci/project-sds3.git
+$ git clone https://github.com/diegovinci/dsvendas.git
 ```
 #### 2. Database
 ```bash
