@@ -7,13 +7,13 @@
 ![License](https://img.shields.io/badge/license-MIT-%23FF851D)
 
 ## About
-DSVendas consists of a web API that provides sales data to a frontend application that displays reports to the end-user.
+DSVendas consists of a web API that provides sales data to a frontend application that displays a sales dashboard to the end-user.
 
 ## Getting Started
 
 ### Prerequisites
 In order run this project locally the following software must be installed on your machine:
-  - [GIT](https://git-scm.com)
+  - [Git](https://git-scm.com)
   - [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
   - [Maven](https://maven.apache.org/download.cgi)
   - [PostgreSQL](https://www.postgresql.org) or [Docker](https://www.docker.com)
