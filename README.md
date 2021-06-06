@@ -9,6 +9,14 @@
 ## About
 DSVendas consists of a web API that provides sales data to a frontend application that displays a sales dashboard to the end-user.
 
+### Technologies
+This project was developed with the following technologies:
+  - [Java](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
+  - [Spring Boot](https://spring.io/projects/spring-boot)
+  - [TypeScript](https://www.typescriptlang.org)
+  - [ReactJS](https://reactjs.org)
+  - [PostgreSQL](https://www.postgresql.org)
+
 ## Getting Started
 
 ### Prerequisites
