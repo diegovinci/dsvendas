@@ -17,6 +17,9 @@ This project was developed with the following technologies:
   - [ReactJS](https://reactjs.org)
   - [PostgreSQL](https://www.postgresql.org)
 
+### Architecture Overview
+![Architecture](https://github.com/diegovinci/project-sds3/blob/main/.assets/architecture.png)
+
 ### Conceptual Domain Model
 ![Domain Model](https://github.com/diegovinci/project-sds3/blob/main/.assets/conceptual-model.png)
 ## Getting Started
