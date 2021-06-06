@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 The instructions below are intended to be a quick start guide. For more details please visit [this repository](https://github.com/devsuperior/sds3).
 
 ### Prerequisites
-In order run this project locally the following software must be installed on your machine:
+In order to run this project locally the following software must be installed on your machine:
   - [Git](https://git-scm.com)
   - [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
   - [Maven](https://maven.apache.org/download.cgi)
