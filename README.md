@@ -18,10 +18,10 @@ This project was developed with the following technologies:
   - [PostgreSQL](https://www.postgresql.org)
 
 ### Architecture Overview
-![Architecture](https://github.com/diegovinci/project-sds3/blob/main/.assets/architecture.png)
+![Architecture](https://github.com/diegovinci/project-sds3/blob/main/.assets/architecture.svg)
 
 ### Conceptual Domain Model
-![Domain Model](https://github.com/diegovinci/project-sds3/blob/main/.assets/conceptual-model.png)
+![Domain Model](https://github.com/diegovinci/project-sds3/blob/main/.assets/conceptual-model.svg)
 ## Getting Started
 The instructions below are intended to be a quick start guide. For more details please visit [this repository](https://github.com/devsuperior/sds3).
 
