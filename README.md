@@ -1,4 +1,4 @@
-![Cover](https://github.com/diegovinci/project-sds3/blob/main/.assets/project-cover.svg)
+![Cover](https://github.com/diegovinci/dsvendas/blob/main/.assets/project-cover.svg)
 
 ![Languages](https://img.shields.io/github/languages/count/diegovinci/dsvendas?color=%23FF851D)
 ![Top Language](https://img.shields.io/github/languages/top/diegovinci/dsvendas?color=%23FF851D)
@@ -10,7 +10,7 @@
 DSVendas consists of a web API that provides sales data to a frontend application that displays a sales dashboard to the end-user.
 
 ### Technologies
-This project was developed with the following technologies:
+This project has been developed with the following technologies:
   - [Java](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
   - [Spring Boot](https://spring.io/projects/spring-boot)
   - [TypeScript](https://www.typescriptlang.org)
@@ -18,10 +18,10 @@ This project was developed with the following technologies:
   - [PostgreSQL](https://www.postgresql.org)
 
 ### Architecture Overview
-![Architecture](https://github.com/diegovinci/project-sds3/blob/main/.assets/architecture.svg)
+![Architecture](https://github.com/diegovinci/dsvendas/blob/main/.assets/architecture.svg)
 
 ### Conceptual Domain Model
-![Domain Model](https://github.com/diegovinci/project-sds3/blob/main/.assets/conceptual-model.svg)
+![Domain Model](https://github.com/diegovinci/dsvendas/blob/main/.assets/conceptual-model.svg)
 ## Getting Started
 The instructions below are intended to be a quick start guide. For more details please visit [this repository](https://github.com/devsuperior/sds3).
 
@@ -282,6 +282,6 @@ $ yarn install
 $ yarn start
 ```
 ## License
-This project is under MIT license. See the [LICENSE](https://github.com/diegovinci/project-sds3/blob/main/LICENSE) file for more details.
+This project is under MIT license. See the [LICENSE](https://github.com/diegovinci/dsvendas/blob/main/LICENSE) file for more details.
 
 Made by Diego Vinciguerra :wave: [Get in touch!](https://www.linkedin.com/in/diegovinci)
